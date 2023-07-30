@@ -1,0 +1,85 @@
+.name1 {
+  font-size: 40px;
+  padding: 20px;
+}
+
+.header {
+  background-color: rgb(130, 204, 19);
+  color: #fff;
+  height: 100px;
+}
+
+.relative {
+  position: relative;
+  width: 1000px;
+}
+
+.img1 {
+  width: 1050px;
+}
+
+.img2 {
+  position: absolute;
+  position: fixed;
+  width: 1050px;
+  top: 250px;
+  right: 52%;
+}
+
+.mondai {
+  position: absolute;
+  top: 65%;
+  left: 500px;
+  font-size: 40px;
+  justify-content: space-between;
+}
+
+.img3 {
+  position: absolute;
+  width: 550px;
+  left: 50%;
+  top: 15%;
+}
+
+.img4 {
+  position: absolute;
+  width: 550px;
+  left: 50%;
+  top: 30%;
+}
+
+.img5 {
+  position: absolute;
+  width: 550px;
+  left: 50%;
+  top: 50%;
+}
+
+.syumi1 {
+  position: absolute;
+  padding-left: 50%;
+  top: 350px;
+  font-size: 40px;
+}
+
+.syumi2 {
+  position: absolute;
+  padding-left: 50%;
+  top: 800px;
+  font-size: 40px;
+}
+
+.syumi3 {
+  position: absolute;
+  padding-left: 50%;
+  top: 1350px;
+  font-size: 35px;
+}
+
+.body {
+  background-color: rgb(255, 255, 255);
+}
+
+.zenhan {
+  top: 30%;
+}
